@@ -1,7 +1,7 @@
 import * as React from 'react';
 
-const title = 'A propos du site de test Gatsby';
-const description = "Page temoin du site fixture Gatsby : elle est saine et doit rester rigoureusement intacte apres la correction automatique.";
+const title = 'Site de test Gatsby : à propos du projet et de la stack utilisée';
+const description = "Decouvrez ce site de test Gatsby : page temoin saine servant de reference pour valider les corrections automatiques. Explorez l'exemple des maintenant.";
 const canonical = 'https://noyaru-stack-gatsby.netlify.app/a-propos';
 
 export default function Page() {
