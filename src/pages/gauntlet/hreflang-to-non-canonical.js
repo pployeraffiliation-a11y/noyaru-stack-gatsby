@@ -18,18 +18,18 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Test hreflang vers page non-canonique | Noyaru</title>
       <meta name="description" content="Page de test hreflang vers non-canonique : un lien hreflang pointe ici vers une page dont la balise canonical designe une autre URL, pour isoler cette anomalie." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="en" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-other/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta property="og:title" content="Test hreflang vers page non-canonique | Noyaru" />
       <meta property="og:description" content="Page de test hreflang vers non-canonique : un lien hreflang pointe ici vers une page dont la balise canonical designe une autre URL, pour isoler cette anomalie." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:title" content="Test hreflang vers page non-canonique | Noyaru" />
       <meta name="twitter:description" content="Page de test hreflang vers non-canonique : un lien hreflang pointe ici vers une page dont la balise canonical designe une autre URL, pour isoler cette anomalie." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
