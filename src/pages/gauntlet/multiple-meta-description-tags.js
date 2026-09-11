@@ -20,7 +20,7 @@ export function Head() {
       <meta name="viewport" content="width=device-width" />
       <title>Page de test du parcours d'obstacles Noyaru</title>
       <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
-      <meta name="description" content="Une seconde description." />
+      <meta name="description" content="Apprenez à gérer plusieurs balises meta description sur votre site en 2023 avec Noyaru. Améliorez votre SEO et attirez plus de visiteurs." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/multiple-meta-description-tags/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
