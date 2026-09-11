@@ -19,7 +19,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Double barre dans une URL interne | Test Noyaru</title>
       <meta name="description" content="Page dediee au test de la double barre dans une URL interne : ce parcours d'obstacles isole l'anomalie double_slash_in_url pour la reperer au crawl." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
       <meta property="og:type" content="article" />
