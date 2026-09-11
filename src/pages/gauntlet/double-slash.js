@@ -26,7 +26,7 @@ export function Head() {
       <meta property="og:title" content="Parcours d'obstacles - Double Slash" />
       <meta property="og:description" content="Découvrez le parcours d'obstacles unique de cette page, conçu pour illustrer une anomalie spécifique dans le crawl." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
-      <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
+      <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" alt="Image de la page de parcours d'obstacles" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Parcours d'obstacles - Double Slash" />
       <meta name="twitter:description" content="Découvrez le parcours d'obstacles unique de cette page, conçu pour illustrer une anomalie spécifique dans le crawl." />
