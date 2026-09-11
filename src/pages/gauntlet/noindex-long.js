@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond</title>
+      <title>Un titre trop long pour la fenetre visee par le correcteur SEO</title>
       <meta name="description" content="Une meta description volontairement tres longue, ecrite pour depasser le plafond de cent soixante caracteres retenu par le crawler." />
       <meta name="robots" content="noindex, follow" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/noindex-long/" />
