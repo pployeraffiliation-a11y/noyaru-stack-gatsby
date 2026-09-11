@@ -28,6 +28,7 @@ export function Head() {
       <meta name="description" content="Cette page appartient au parcours d'obstacles de la fixture, servant à provoquer une anomalie SEO spécifique." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:description" content="Cette page appartient au parcours d'obstacles de la fixture, servant à provoquer une anomalie SEO spécifique." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
   );
