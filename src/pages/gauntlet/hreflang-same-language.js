@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Test hreflang : deux annotations pour la meme langue</title>
       <meta name="description" content="Page de test hreflang : deux annotations hreflang pointent vers le meme code de langue fr mais vers deux pages differentes, pour declencher cette anomalie" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
