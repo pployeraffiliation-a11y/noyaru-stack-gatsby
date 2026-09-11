@@ -25,11 +25,11 @@ export function Head() {
       <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
       <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-a/" />
-      <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
+      <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
       <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
-      <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
+      <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles" />
     </>
   );
 }
