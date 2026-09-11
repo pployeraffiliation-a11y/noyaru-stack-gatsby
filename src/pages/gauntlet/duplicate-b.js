@@ -18,16 +18,16 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Deux pages qui portent exactement le meme titre pour le test</title>
+      <title>Page B jumelle du parcours d'obstacles Noyaru</title>
       <meta name="description" content="Page B du parcours d'obstacles : variante jumelle de la page A, avec sa propre meta description unique pour eviter tout doublon au crawl." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta property="og:title" content="Page B jumelle du parcours d'obstacles Noyaru" />
       <meta property="og:description" content="Page B du parcours d'obstacles : variante jumelle de la page A, avec sa propre meta description unique pour eviter tout doublon au crawl." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta name="twitter:title" content="Page B jumelle du parcours d'obstacles Noyaru" />
       <meta name="twitter:description" content="Page B du parcours d'obstacles : variante jumelle de la page A, avec sa propre meta description unique pour eviter tout doublon au crawl." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
