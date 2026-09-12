@@ -30,7 +30,7 @@ export function Head() {
       <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
       <meta name="twitter:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","name":"Objet sans type declare"}` }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@type":"WebPage","name":"Objet sans type declare"}` }} />
     </>
   );
 }
