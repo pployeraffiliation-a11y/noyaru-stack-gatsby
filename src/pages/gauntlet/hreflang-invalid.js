@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Parcours d'obstacles Noyaru - Anomalie spécifique</title>
       <meta name="description" content="Page du parcours d'obstacles : cette page présente une anomalie spécifique pour la famille visée." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
       <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
