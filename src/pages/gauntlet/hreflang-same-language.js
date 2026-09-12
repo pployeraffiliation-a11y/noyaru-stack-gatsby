@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Parcours d'obstacles - Test de compétences Noyaru</title>
       <meta name="description" content="Découvrez le parcours d'obstacles unique, conçu pour tester vos compétences et vous divertir. Relevez le défi dès maintenant !" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
