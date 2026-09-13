@@ -23,6 +23,7 @@ export function Head() {
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta property="og:description" content="Page de test du parcours d'obstacles Noyaru : cette page indexable illustre une anomalie unique afin de valider le comportement du crawler SEO." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
