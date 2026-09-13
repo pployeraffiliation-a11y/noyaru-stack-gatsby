@@ -19,6 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Page de test du parcours d'obstacles Noyaru</title>
+      <meta name="description" content="Page de test du parcours d'obstacles Noyaru servant a valider la gestion des anomalies SEO. Elle illustre une page volontairement non indexee." />
       <meta name="robots" content="noindex, follow" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/noindex-no-description/" />
       <meta property="og:type" content="article" />
