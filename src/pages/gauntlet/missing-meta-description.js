@@ -19,6 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Page de test du parcours d'obstacles Noyaru</title>
+      <meta name="description" content="Page de test du parcours d'obstacles Noyaru : cette page indexable illustre une anomalie unique afin de valider le comportement du crawler SEO." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
