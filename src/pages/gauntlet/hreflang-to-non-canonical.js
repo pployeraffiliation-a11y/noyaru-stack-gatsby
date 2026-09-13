@@ -18,18 +18,18 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Hreflang vers page non canonique — parcours Noyaru</title>
       <meta name="description" content="Cas hreflang vers page non canonique : un lien alternate pointe vers une URL dont la balise canonical designe une autre adresse, afin de declencher cette" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="en" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-other/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta property="og:title" content="Hreflang vers page non canonique — parcours Noyaru" />
       <meta property="og:description" content="Cas hreflang vers page non canonique : un lien alternate pointe vers une URL dont la balise canonical designe une autre adresse, afin de declencher cette anomalie." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:title" content="Hreflang vers page non canonique — parcours Noyaru" />
       <meta name="twitter:description" content="Cas hreflang vers page non canonique : un lien alternate pointe vers une URL dont la balise canonical designe une autre adresse, afin de declencher cette anomalie." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
