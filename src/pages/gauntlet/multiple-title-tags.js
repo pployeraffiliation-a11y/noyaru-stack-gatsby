@@ -19,7 +19,6 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Page de test du parcours d'obstacles Noyaru</title>
-      <title>Un second titre</title>
       <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/multiple-title-tags/" />
       <meta property="og:type" content="article" />
