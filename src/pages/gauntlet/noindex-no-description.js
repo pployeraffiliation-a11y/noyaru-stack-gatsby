@@ -29,6 +29,7 @@ export function Head() {
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:description" content="Page de test du parcours d'obstacles Noyaru servant a valider la gestion des anomalies SEO. Elle illustre une page volontairement non indexee." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
   );
