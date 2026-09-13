@@ -22,7 +22,7 @@ export function Head() {
       <meta name="description" content="Cas hreflang vers page non canonique : un lien alternate pointe vers une URL dont la balise canonical designe une autre adresse, afin de declencher cette" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
-      <link rel="alternate" hreflang="en" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-other/" />
+      <link rel="alternate" hreflang="en" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-relay/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Hreflang vers page non canonique — parcours Noyaru" />
       <meta property="og:description" content="Cas hreflang vers page non canonique : un lien alternate pointe vers une URL dont la balise canonical designe une autre adresse, afin de declencher cette anomalie." />
