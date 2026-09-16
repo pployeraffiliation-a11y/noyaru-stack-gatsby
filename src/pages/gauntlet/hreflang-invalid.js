@@ -21,6 +21,7 @@ export function Head() {
       <title>Hreflang invalid dans le parcours d'obstacles Noyaru</title>
       <meta name="description" content="Cette page traite des erreurs hreflang et comment les corriger dans le parcours d'obstacles. Apprenez à éviter les problèmes de référencement liés aux balises" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
+      <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
       <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
