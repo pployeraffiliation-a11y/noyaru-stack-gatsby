@@ -19,7 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Deux pages qui portent exactement le meme titre pour le test</title>
-      <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+      <meta name="description" content="Explorez le parcours d'obstacles 'duplicate b', une page dédiée à une anomalie unique pour les développeurs." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
