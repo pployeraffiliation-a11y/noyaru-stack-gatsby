@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Hreflang invalid - Parcours d'obstacles Noyaru</title>
       <meta name="description" content="Découvrez le parcours d'obstacles avec une anomalie hreflang invalid, un cas unique à explorer pour les développeurs." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
       <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-invalid/" />
