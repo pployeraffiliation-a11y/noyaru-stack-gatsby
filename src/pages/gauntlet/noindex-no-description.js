@@ -26,6 +26,7 @@ export function Head() {
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/noindex-no-description/" />
       <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une page dédiée aux tests de noindex et de description." /><meta property="og:description" content="Cette page traite du parcours d'obstacles Noyaru, avec une approche noindex et sans description." /><meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:description" content="Cette page traite du parcours d'obstacles Noyaru, avec une approche noindex et sans description." />
       <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
