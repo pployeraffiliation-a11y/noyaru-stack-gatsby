@@ -21,6 +21,7 @@ export function Head() {
       <title>Hreflang Same Language dans le parcours d'obstacles Noyaru</title>
       <meta name="description" content="Cette page traite des balises hreflang et de leur impact sur le SEO, en illustrant un cas spécifique dans le parcours d'obstacles." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
+      <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-same-language/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
