@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Hreflang vers non canonical - Parcours d'obstacles Noyaru</title>
       <meta name="description" content="Découvrez le parcours d'obstacles avec hreflang vers une page non canonique, illustrant un cas spécifique à explorer dans notre test." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
       <link rel="alternate" hreflang="fr" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/hreflang-to-non-canonical/" />
