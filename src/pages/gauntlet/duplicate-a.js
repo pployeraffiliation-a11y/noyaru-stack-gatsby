@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Deux pages qui portent exactement le meme titre pour le test</title>
+      <title>Test de parcours d'obstacles : duplicate a</title>
       <meta name="description" content="Explorez le parcours d'obstacles avec la page duplicate-a, qui illustre une anomalie unique pour les développeurs, en mettant en avant les doublons." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-a/" />
       <meta property="og:type" content="article" />
