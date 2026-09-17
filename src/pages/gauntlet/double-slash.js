@@ -19,16 +19,16 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Double Slash dans l'URL - Parcours d'obstacles Noyaru</title>
       <meta name="description" content="Découvrez le parcours d'obstacles avec un double slash dans l'URL, une anomalie unique à explorer sur cette page." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta property="og:title" content="Double Slash dans l'URL - Parcours d'obstacles Noyaru" />
       <meta property="og:description" content="Découvrez le parcours d'obstacles avec un double slash dans l'URL, une anomalie unique à explorer sur cette page." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:title" content="Double Slash dans l'URL - Parcours d'obstacles Noyaru" />
       <meta name="twitter:description" content="Découvrez le parcours d'obstacles avec un double slash dans l'URL, une anomalie unique à explorer sur cette page." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
