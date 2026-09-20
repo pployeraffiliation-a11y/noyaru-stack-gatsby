@@ -44,3 +44,7 @@ Stack détectée **`gatsby`** (et non plus `next-pages`), idiome **API Head de G
 Aucun trou de réécriture ici : le correctif né du fixture Astro couvrait déjà la forme
 `const canonical = …` en JSX. Ce qui restait à prouver sur Gatsby, ce n'était pas la réécriture —
 c'était que la **bonne consigne** soit donnée, et que le résultat **compile**.
+
+<!-- Temoin de build, 2026-09-20 16:26 : cette PR ne change QUE ce fichier. Elle sert a
+     savoir si l'echec du 20/09 vient de la page ecrite ou de l'environnement.
+     A FERMER SANS FUSION. -->
