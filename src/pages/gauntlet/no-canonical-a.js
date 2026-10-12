@@ -18,7 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Deux pages jumelles sans canonical declare</title>
+      <title>Parcours Noyaru : page jumelle A sans canonical declare</title>
       <meta name="description" content="Page jumelle A du parcours d'obstacles : sans canonical declare, elle illustre le cas de doublon que la famille des pages dupliquees doit identifier" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
