@@ -20,7 +20,7 @@ export function Head() {
       <meta name="viewport" content="width=device-width" />
       <title>Parcours Noyaru : canonical http</title>
       <meta name="description" content="Page « canonical http » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-      <link rel="canonical" href="http://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-http" />
+      <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-http/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Parcours Noyaru : canonical http" />
       <meta property="og:description" content="Page « canonical http » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
