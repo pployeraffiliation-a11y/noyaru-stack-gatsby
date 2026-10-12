@@ -19,6 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Page de test du parcours d'obstacles Noyaru</title>
+      <meta name="description" content="Page du parcours d'obstacles Gatsby traitant le cas noindex sans description : une seule anomalie déclenchée, tout le reste de la page reste conforme." />
       <meta name="robots" content="noindex, follow" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/noindex-no-description/" />
       <meta property="og:type" content="article" />
