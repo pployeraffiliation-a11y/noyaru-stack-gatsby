@@ -19,7 +19,6 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Parcours Noyaru : multiple title tags</title>
-      <title>Un second titre</title>
       <meta name="description" content="Page « multiple title tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/multiple-title-tags/" />
       <meta property="og:type" content="article" />
