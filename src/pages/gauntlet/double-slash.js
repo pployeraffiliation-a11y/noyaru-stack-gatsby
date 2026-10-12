@@ -19,16 +19,16 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Page de test du parcours d'obstacles Noyaru</title>
+      <title>Gauntlet double slash — test lien avec double barre</title>
       <meta name="description" content="Page gauntlet double-slash : un lien interne contient une double barre oblique, anomalie isolee pour exercer uniquement la detection de double slash." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta property="og:title" content="Gauntlet double slash — test lien avec double barre" />
       <meta property="og:description" content="Page gauntlet double-slash : un lien interne contient une double barre oblique, anomalie isolee pour exercer uniquement la detection de double slash." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/double-slash/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+      <meta name="twitter:title" content="Gauntlet double slash — test lien avec double barre" />
       <meta name="twitter:description" content="Page gauntlet double-slash : un lien interne contient une double barre oblique, anomalie isolee pour exercer uniquement la detection de double slash." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
