@@ -18,16 +18,16 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Deux pages qui portent exactement le meme titre pour le test</title>
+      <title>Gauntlet duplicate-a — test de titres dupliqués Noyaru</title>
       <meta name="description" content="Page duplicate-a du parcours d'obstacles Gatsby : cette page et sa jumelle duplicate-b partagent titre et description pour tester la detection des doublons." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-a/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta property="og:title" content="Gauntlet duplicate-a — test de titres dupliqués Noyaru" />
       <meta property="og:description" content="Page duplicate-a du parcours d'obstacles Gatsby : cette page et sa jumelle duplicate-b partagent titre et description pour tester la detection des doublons." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-a/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta name="twitter:title" content="Gauntlet duplicate-a — test de titres dupliqués Noyaru" />
       <meta name="twitter:description" content="Page duplicate-a du parcours d'obstacles Gatsby : cette page et sa jumelle duplicate-b partagent titre et description pour tester la detection des doublons." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
