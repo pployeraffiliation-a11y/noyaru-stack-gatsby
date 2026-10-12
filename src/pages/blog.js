@@ -3,7 +3,7 @@ import * as React from 'react';
 const title = 'Blog du site de test Gatsby';
 const description = "Index du blog du site fixture Gatsby, servant a verifier que la correction du canonical ne touche ni les autres pages ni la config.";
 // THE INJECTED DEFECT: the trailing slash. The host serves /blog and 301s /blog/ to it.
-const canonical = 'https://noyaru-stack-gatsby.netlify.app/blog';
+const canonical = 'https://noyaru-stack-gatsby.netlify.app/blog/';
 
 export default function Page() {
   return (
