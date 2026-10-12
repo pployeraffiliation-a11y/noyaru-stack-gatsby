@@ -19,6 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Parcours Noyaru : missing meta description</title>
+      <meta name="description" content="Page du parcours d'obstacles Gatsby dédiée au cas missing meta description : une seule anomalie ciblée, pour valider la détection et la correction." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Parcours Noyaru : missing meta description" />
