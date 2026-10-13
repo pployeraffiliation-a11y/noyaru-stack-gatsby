@@ -30,6 +30,7 @@ export function Head() {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Parcours Noyaru : noindex no description" />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
+      <meta name="twitter:description" content="Page noindex du parcours d'obstacles : aucune meta description declaree, pour que seule la famille missing_meta_description se declenche au crawl." />
     </>
   );
 }
