@@ -24,6 +24,7 @@ export function Head() {
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Parcours Noyaru : missing meta description" />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
+      <meta property="og:description" content="Page du parcours d'obstacles dédiée au cas missing meta description : une seule anomalie est provoquée ici pour exercer la famille de correcteurs" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
