@@ -17,6 +17,7 @@ export default function Page() {
 export function Head() {
   return (
     <>
+      <title>Parcours Noyaru : titre manquant, cas de test ciblé</title>
       <meta name="viewport" content="width=device-width" />
       <meta name="description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-title/" />
