@@ -24,7 +24,7 @@ export function Head() {
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Parcours Noyaru : canonical relay" />
       <meta property="og:description" content="Page « canonical relay » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-      <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/canonical-relay/" />
+      <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-h1/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Parcours Noyaru : canonical relay" />
