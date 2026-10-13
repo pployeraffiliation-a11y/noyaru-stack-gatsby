@@ -27,6 +27,7 @@ export function Head() {
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-title/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="Parcours Noyaru : titre manquant, cas de test ciblé" />
       <meta name="twitter:description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
