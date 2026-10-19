@@ -19,16 +19,16 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Deux pages qui portent exactement le meme titre pour le test</title>
-      <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+      <meta name="description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-      <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+      <meta property="og:description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-      <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+      <meta name="twitter:description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
   );
