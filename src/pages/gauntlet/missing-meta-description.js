@@ -29,6 +29,7 @@ export function Head() {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
+      <meta name="twitter:description" content="Page « missing meta description » du parcours d'obstacles : correcte partout sauf sur l'absence de description, pour cibler uniquement cette famille." />
     </>
   );
 }
