@@ -18,6 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
+      <meta name="description" content="Page « missing meta description » du parcours d'obstacles : correcte partout sauf sur l'absence de description, pour cibler uniquement cette famille." />
       <title>Parcours Noyaru : missing meta description</title>
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/missing-meta-description/" />
       <meta property="og:type" content="article" />
