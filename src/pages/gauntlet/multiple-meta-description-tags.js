@@ -20,7 +20,6 @@ export function Head() {
       <meta name="viewport" content="width=device-width" />
       <title>Parcours Noyaru : multiple meta description tags</title>
       <meta name="description" content="Page « multiple meta description tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-      <meta name="description" content="Page du parcours d'obstacles traitant le cas multiple meta description tags : correcte partout sauf sur ce point precis, pour declencher uniquement la famille" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/multiple-meta-description-tags/" />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Parcours Noyaru : multiple meta description tags" />
