@@ -18,12 +18,13 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
+      <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/no-canonical-a/" />
       <title>Deux pages jumelles sans canonical declare</title>
       <meta name="description" content="Variante B des pages jumelles sans canonical : cette page miroir permet de verifier que la famille des doublons detecte bien les deux URLs en conflit." />
       <meta property="og:type" content="article" />
       <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
       <meta property="og:description" content="Variante B des pages jumelles sans canonical : cette page miroir permet de verifier que la famille des doublons detecte bien les deux URLs en conflit." />
-      <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/no-canonical-b/" />
+      <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/no-canonical-a/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Deux pages jumelles sans canonical declare" />
