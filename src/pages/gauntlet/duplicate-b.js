@@ -18,16 +18,16 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
-      <title>Deux pages qui portent exactement le meme titre pour le test</title>
+      <title>Parcours Noyaru : duplicate-b, variante du cas dupliqué</title>
       <meta name="description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta property="og:title" content="Parcours Noyaru : duplicate-b, variante du cas dupliqué" />
       <meta property="og:description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <meta property="og:url" content="https://noyaru-stack-gatsby.netlify.app/gauntlet/duplicate-b/" />
       <meta property="og:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+      <meta name="twitter:title" content="Parcours Noyaru : duplicate-b, variante du cas dupliqué" />
       <meta name="twitter:description" content="Page duplicate-b du parcours d'obstacles : variante distincte de duplicate-a, correcte partout sauf sur l'unicite de la description, pour cibler cette famille." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
     </>
