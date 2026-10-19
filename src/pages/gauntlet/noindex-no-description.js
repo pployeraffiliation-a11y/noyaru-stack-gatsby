@@ -19,6 +19,7 @@ export function Head() {
     <>
       <meta name="viewport" content="width=device-width" />
       <title>Parcours Noyaru : noindex no description</title>
+      <meta name="description" content="Page « noindex no description » du parcours d'obstacles : correcte partout sauf sur l'absence de description, pour cibler cette famille au crawl." />
       <meta name="robots" content="noindex, follow" />
       <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/noindex-no-description/" />
       <meta property="og:type" content="article" />
