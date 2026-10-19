@@ -18,6 +18,7 @@ export function Head() {
   return (
     <>
       <meta name="viewport" content="width=device-width" />
+      <link rel="canonical" href="https://noyaru-stack-gatsby.netlify.app/gauntlet/no-canonical-a/" />
       <title>Deux pages jumelles sans canonical declare</title>
       <meta name="description" content="Page jumelle A du parcours d'obstacles sans canonical : son contenu miroir avec la page B permet de declencher la detection des doublons non canonicalises." />
       <meta property="og:type" content="article" />
