@@ -30,7 +30,7 @@ export function Head() {
       <meta name="twitter:title" content="Parcours Noyaru : mixed css" />
       <meta name="twitter:description" content="Page « mixed css » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
       <meta name="twitter:image" content="https://noyaru-stack-gatsby.netlify.app/og.png" />
-      <link rel="stylesheet" href="http://noyaru-stack-gatsby.netlify.app/style.css" />
+      <link rel="stylesheet" href="https://noyaru-stack-gatsby.netlify.app/style.css" />
     </>
   );
 }
